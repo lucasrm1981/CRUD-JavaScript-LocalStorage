@@ -1,5 +1,5 @@
 # CRUD-JavaScript-LocalStorage
-Este projeto é uma aplicação web simples que implementa operações CRUD (Create, Read, Update, Delete) para gerenciamento de usuários, utilizando **JavaScript puro** e **LocalStorage** para persistência de dados no navegador.
+Este projeto é uma aplicação web simples que implementa operações CRUD (Create, Read, Update, Delete) para gerenciamento de usuários, utilizando **JavaScript puro** e **LocalStorage JSON** para persistência de dados no navegador.
 
 ## 📋 Funcionalidades
 
@@ -7,14 +7,14 @@ Este projeto é uma aplicação web simples que implementa operações CRUD (Cre
 - 📄 Listar todos os usuários
 - ✏️ Editar usuários existentes (atualização completa ou parcial)
 - ❌ Excluir usuários
-- 💾 Armazenamento persistente com `localStorage`
+- 💾 Armazenamento persistente com `JSON localStorage`
 
 ## 🧠 Tecnologias Utilizadas
 
 - HTML
 - CSS (pode ser incluído à parte)
 - JavaScript (vanilla)
-- Armazenamento local (`localStorage`)
+- Armazenamento local (` JSON localStorage`)
 
 ## 💡 Como Funciona
 
